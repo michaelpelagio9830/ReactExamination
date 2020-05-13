@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ReactExamination/static/css/main.af120dd2.chunk.css",
+    "main.js": "/ReactExamination/static/js/main.f8625d92.chunk.js",
+    "main.js.map": "/ReactExamination/static/js/main.f8625d92.chunk.js.map",
+    "runtime-main.js": "/ReactExamination/static/js/runtime-main.73f164f0.js",
+    "runtime-main.js.map": "/ReactExamination/static/js/runtime-main.73f164f0.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/ReactExamination/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.c7e9ae8e.chunk.js": "/ReactExamination/static/js/2.c7e9ae8e.chunk.js",
+    "static/js/2.c7e9ae8e.chunk.js.map": "/ReactExamination/static/js/2.c7e9ae8e.chunk.js.map",
+    "static/css/3.f77d4db4.chunk.css": "/ReactExamination/static/css/3.f77d4db4.chunk.css",
+    "static/js/3.e21f1552.chunk.js": "/ReactExamination/static/js/3.e21f1552.chunk.js",
+    "static/js/3.e21f1552.chunk.js.map": "/ReactExamination/static/js/3.e21f1552.chunk.js.map",
+    "index.html": "/ReactExamination/index.html",
+    "precache-manifest.5d715b43d7acb2c08f96972fb89ff78b.js": "/ReactExamination/precache-manifest.5d715b43d7acb2c08f96972fb89ff78b.js",
+    "service-worker.js": "/ReactExamination/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/ReactExamination/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/3.f77d4db4.chunk.css.map": "/ReactExamination/static/css/3.f77d4db4.chunk.css.map",
+    "static/css/main.af120dd2.chunk.css.map": "/ReactExamination/static/css/main.af120dd2.chunk.css.map",
+    "static/js/2.c7e9ae8e.chunk.js.LICENSE.txt": "/ReactExamination/static/js/2.c7e9ae8e.chunk.js.LICENSE.txt",
+    "static/media/404.jpg": "/ReactExamination/static/media/404.0814c022.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73f164f0.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.c7e9ae8e.chunk.js",
+    "static/css/main.af120dd2.chunk.css",
+    "static/js/main.f8625d92.chunk.js"
+  ]
+}
