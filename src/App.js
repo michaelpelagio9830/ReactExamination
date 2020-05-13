@@ -71,7 +71,7 @@ class App extends Component {
         <Route path="/login" component={Login} />
         <Route path="/pagenotfound" component={PageNotFound} />
 
-        <Redirect from="/ReactExamination" exact to="/login" />
+        <Redirect from="/ReactExamination/" exact to="/login" />
         <Redirect from="/" exact to="/login" />
         <Redirect to="/pagenotfound" />
       </Switch>
