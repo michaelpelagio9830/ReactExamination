@@ -1,0 +1,124 @@
+html {
+  height: 100%;
+}
+body {
+  margin: 0;
+  height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.container {
+  position: relative;
+}
+.form {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  max-width: 400px;
+  min-width: 150px;
+  position: absolute;
+  top: 45%;
+  left: 45%;
+  /* transform: translate(-50%, -50%); */
+  font-size: 20px;
+}
+/* 
+.card {
+  max-width: 400px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #dcddde;
+  border-radius: 4px;
+  padding: 16px;
+  -webkit-transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  transition: all 0.3s;
+}
+.card-header {
+  height: 50px;
+  width: 100%;
+  min-height: 50px;
+  display: flex;
+}
+.card-avatar {
+  min-width: 35px;
+  margin: 0 12px 0 0;
+  width: 35px;
+  height: 35px;
+  background: #dcddde;
+  border-radius: 50%;
+}
+.card-title {
+  margin-bottom: 5px;
+}
+.divider {
+  height: 1px;
+  width: 100%;
+  margin-bottom: 1em;
+  background: rgba(0, 0, 0, 0.1);
+}
+.card-body {
+  height: 80px;
+  min-height: 80px;
+}
+.card-description {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-top: 0;
+  font-size: 14px;
+}
+.card-actions {
+  display: flex;
+}
+.spacer {
+  flex: 1 1 auto;
+}
+.button-holder {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  cursor: pointer;
+  background: transparent;
+}
+.top-bin {
+  height: 3px;
+  width: 20px;
+  background: #23ce94;
+  border-radius: 3px 3px 0 0;
+  margin-bottom: 1px;
+}
+.bottom-bin {
+  height: 15px;
+  width: 16px;
+  background: #23ce94;
+  border-radius: 0 0 3px 3px;
+}
+.card-layout {
+  display: grid;
+  grid-template-columns: 400px 400px;
+}
+.card-layout {
+  display: grid;
+  grid-template-columns: 400px 400px 400px;
+  grid-gap: 16px;
+  grid-template-rows: 0fr;
+  justify-content: center;
+} */
