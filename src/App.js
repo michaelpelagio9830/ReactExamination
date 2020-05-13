@@ -10,7 +10,6 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.css";
 const ApiEndPoint = "https://jsonplaceholder.typicode.com/posts";
 
-
 class App extends Component {
   // state = {  }
   state = {
@@ -51,7 +50,7 @@ class App extends Component {
     const { data, sideDrawerOpen } = this.state;
     return (
       <Switch>
-        <Route path="/dashboard/:addItems" exact>
+        <Route path="/dashboard/additems" exact>
           <AddForm
             sideDrawerOpen={sideDrawerOpen}
             onDrawerClick={this.handleDrawerClick}

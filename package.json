@@ -1,5 +1,5 @@
 {
-  "homepage": "http://kelsky31.github.io/ReactExamination",
+  "homepage": "http://michaelpelagio9830.github.io/ReactExamination",
   "name": "reactexam",
   "version": "0.1.0",
   "private": true,
@@ -16,8 +16,8 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy" : "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
